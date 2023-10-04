@@ -28,7 +28,11 @@
 -  Action: Describe the actions you took to complete the project or solve the partic- ular problem.
 -  Result: Finally, explain the result of the actions taken. Emphasize what your team accomplished, or what you learned.
 
+<br/>
 <hr/> 
+<br/>
+
+## Tell me something about yourself?
  
 ### <img src="tip.png" width="30" align="left"/> Tips
 
@@ -48,15 +52,14 @@
 -  Talk about any SIGNIFICANT achievement so far in personal / worklife
 -  Talk about the TYPE OF PERSON you are and what are u going to do, if they hire you
 
-#### Answer:
+#### Sample Answer:
 Thank u for giving me the opportunity to be interviews for this position Today.
 -  “I am loyal, hard-working, professional and conscientious and, having studied the job de- scription for this role in detail, I feel the attributes I possess are a strong match.
 -  Whilst at work, I am someone who takes pride in delivering each task to a high standard and I achieve this by working closely with other people within the team.
 -  I also make sure I obtain a clear brief from my manager or supervisor as to what they want to me to achieve whilst working in the role I am employed.
 -  If successful, I am looking forward to learning the role quickly and getting to know as much about your products and services, so I can start contributing and making a positive impact within the organization.”
 
-
-Choose any 3:
+#### Choose any 3:
 -  Dependable (Means, I will never let u down and will be available at short notice if needed to help out)
 -  Resourceful (Means, can do the challenging task on yourself and do the things)
 -  Self-motivated (Means, Learn the things quickly, with little supervision)
@@ -69,15 +72,18 @@ Choose any 3:
 -  Flexible
 -  Result Driven
 
-#### Answer:
+## Describe yourself in 3 words?
+
+#### Sample Answer:
 -  Standard answer: I describe myself as Energetic, Loyal and self-motivated.
 -  Technical answer: I would describe myself, Technically-astute, Analytical and Resource- ful
 -  My Technical abilities and experience are a strong match of this job description, so I am confident I have the skills and qualities needed to make a positive difference quickly in the role
 -  Analytical qualities mean I will persevere and use my knowledge to find, assess and resolve problems quickly
 -  Finally, Resourcefulness means I have an abundance of options I can draw upon to deal with any type of technical solution. This gives you the peace of mins I will be successful my duties and I will contribute positively to the team’s goals.
 
+## What makes you good fit for the role?
 
-#### Answer:
+#### Sample Answer:
 
 -  I am a good fit for this role because the diverse set of skills and qualities I already have are a match for the job description.
 -  I am a SOLID COMMUNICATOR who understands the importance of communicating with customers, clients and team members with clarity, and professionalism.
@@ -86,49 +92,81 @@ Choose any 3:
 -  I am also a good fit because, I am TRUSTWORTHY, DEPENDABLE AND FELXIBLE. If you need me to help out at short notice, take on extra duties, or stay behind late, then I al- ways will do.
 -  Finally, I am a good fit for this role because, I am both GOAL-ORIENTED AND RESOURCE- FUL. I will always focus on moving forward, and I will take responsibility for challenges and problems and when they occur.
 
-   
+## What’s your biggest weaknesses?
+
 #### Company wanted to check
-1.	Are you self-aware, so that you can improve?
-2.	Are you an honest person? Specify the weakness that doesn’t match the job description.
-3.	Do u have any plan to improve?
+-  Are you self-aware, so that you can improve?
+-  Are you an honest person? Specify the weakness that doesn’t match the job description.
+-  Do u have any plan to improve?
+  
 ### <img src="tip.png" width="30" align="left"/> Tips (Never Say, you are not good)
-1.	with people
-2.	at time keeping.
-3.	at managing multi-tasking.
+
+-  with people
+-  at time keeping.
+-  at managing multi-tasking.
+  
 ### <img src="tip.png" width="30" align="left"/> 3 Tips
-1.	Be honest with your weakness
-2.	Never say, you don’t have weaknesses, I am a perfectionist
-3.	You are going to take steps to improve upon the weaknesses.
+-  Be honest with your weakness
+-  Never say, you don’t have weaknesses, I am a perfectionist
+-  You are going to take steps to improve upon the weaknesses.
 
-#### Answer:
-1.	I focus too much on details when carrying out tasks:
-#### Answer: I am a detailed oriented person but when a project has tight deadline, this is not always helpful, I am trying to be more mindful in the situations like this, and I am learning on focusing on the end goal of the task, what I am responsible for.
-2.	I find difficult to ask people when I needed the help:
-#### Answer:I take great pride in my work, When I encounter problem, I always try to figure out things myself, However I do understand, It would be more beneficial to seek advice from other more experience people in the team, so I am taking steps to improve in this area.
-3.	I Struggle to let go the projects:
-#### Answer:I would like to say, I engrossed (involved) so much in the project, when I am work- ing on them, and I don’t want to let them go. However, I do understand, this is not always helpful to my employer’s goal and I am learning to finish a project and move straight on the next one.
-4.	I am not good at giving people feedback
-#### Answer: If someone ask me the feedback, I would rather avoid it, as I don’t want to hurt their feeling. However, I do feel that, feedback is an important part of self-development. And I have been trying to improve in this area by forcing myself to give people feedback, when it is requested.
-5.	I find it really hard, to say no to people
+#### Sample Answer:
 
+-	I focus too much on details when carrying out tasks:
 
+#### Answer: 
+I am a detailed oriented person but when a project has tight deadline, this is not always helpful, I am trying to be more mindful in the situations like this, and I am learning on focusing on the end goal of the task, what I am responsible for.
 
-65
- 
-#### Answer:
+-	I find difficult to ask people when I needed the help:
+  
+#### Sample Answer:
+I take great pride in my work, When I encounter problem, I always try to figure out things myself, However I do understand, It would be more beneficial to seek advice from other more experience people in the team, so I am taking steps to improve in this area.
+
+-	I Struggle to let go the projects:
+
+#### Sample Answer:
+I would like to say, I engrossed (involved) so much in the project, when I am work- ing on them, and I don’t want to let them go. However, I do understand, this is not always helpful to my employer’s goal and I am learning to finish a project and move straight on the next one.
+
+-	I am not good at giving people feedback
+#### Sample Answer: 
+If someone ask me the feedback, I would rather avoid it, as I don’t want to hurt their feeling. However, I do feel that, feedback is an important part of self-development. And I have been trying to improve in this area by forcing myself to give people feedback, when it is requested.
+
+-	I find it really hard, to say no to people
+
+#### Sample Answer:
 -   This has been problem of mine, because I always say yes to everything, Even I don’t have the capacity to do so. Now in the past, I have sometimes become overwhelmed by taking on too many responsibilities, now before I say, yes to things, now I take my time to asses my own workload to make sure, I do have the capacity to the extra work responsi- bilities.
+  
 -   I lack experience in certain area
-#### Answer: I currently lack in taking the lead in the projects, but this is something, I am keen to improve on.
+-   
+#### Sample Answer: 
+I currently lack in taking the lead in the projects, but this is something, I am keen to improve on.
+
 -   Sometime, I am too sensitive
-#### Answer: Sometimes, I am too sensitive and in past took the criticism personally, However I do understand that for me to continually improve professionally I need to view other people’s comments as constructive and productive, So I am learning to be more mindful in situations such as these, when people are simply trying to help me and develop.
+#### Sample Answer: 
+Sometimes, I am too sensitive and in past took the criticism personally, However I do understand that for me to continually improve professionally I need to view other people’s comments as constructive and productive, So I am learning to be more mindful in situations such as these, when people are simply trying to help me and develop.
+
 -   Sometimes, I can be too judgmental on others
-#### Answer: In my last role, I would automatically judge people if they were either late finishing a project or if their standard of work was not up to scratch. However, I am trying to improve in this area, and I am no longer jump to conclusion related to other people’s performance. Instead, I try to offer my support or help so they can improve which ultimately serve to help the team to move forward.
+  
+#### Sample Answer: 
+In my last role, I would automatically judge people if they were either late finishing a project or if their standard of work was not up to scratch. However, I am trying to improve in this area, and I am no longer jump to conclusion related to other people’s performance. Instead, I try to offer my support or help so they can improve which ultimately serve to help the team to move forward.
+
 -   I don’t have any leadership experience
-#### Answer: I don’t have leadership skill; however, this is something I really want to improve upon. If you ask me now to lead on something, I wouldn’t feel confidant doing so. However, to improve in this area I would seek to observe how managers and team leaders tackle pro- jects and tasks so then I can learn to do it by myself when the opportunity present to itself.
+  
+#### Sample Answer: 
+I don’t have leadership skill; however, this is something I really want to improve upon. If you ask me now to lead on something, I wouldn’t feel confidant doing so. However, to improve in this area I would seek to observe how managers and team leaders tackle pro- jects and tasks so then I can learn to do it by myself when the opportunity present to itself.
+
 -   I get stressed, if the project run over the deadlines.
-#### Answer: I get stressed, if the project run over the deadlines, because I take pride in my work and I genuinely don’t want my employer down, However, I am learning to remain calm in difficult situations such as these and to focus on what I can do to help the project to fin- ish on time and to the necessary standard
+  
+#### Sample Answer: 
+
+I get stressed, if the project run over the deadlines, because I take pride in my work and I genuinely don’t want my employer down, However, I am learning to remain calm in difficult situations such as these and to focus on what I can do to help the project to fin- ish on time and to the necessary standard
+
 -   I am not good at presenting to the large group of people
-#### Answer: My weakness is public speaking, I would genuinely love to have the confidence to stand up Infront of group of people and give a talk, however, I am trying to improve in this area and I recently purchase a book from amazon on how to improve confidence when public speaking.
+
+#### Sample Answer: 
+My weakness is public speaking, I would genuinely love to have the confidence to stand up Infront of group of people and give a talk, however, I am trying to improve in this area and I recently purchase a book from amazon on how to improve confidence when public speaking.
+
+## Tell me about a time you worked as part of a team?
 
 #### Company wanted to check
 -   Are you self-aware, so that you can improve?
@@ -144,99 +182,139 @@ Choose any 3:
 -   Never
 -   You are
    
-#### Answer:
--   I focus too much on details when carrying out tasks: Answer: I am.
- 
+#### Sample Answer: Not found mouch
+-   I focus too much on details when carrying out tasks: 
 
+## 6. Tell me about a time you had to overcome a difficult problem.
 
-####hiring managers want to know that you can navigate the typical disagreements that can occur at
+### <img src="tip.png" width="30" align="left"/> Tips 
+Hiring managers want to know that you can navigate the typical disagreements that can occur at
 work. It’s also a way to gauge your interpersonal skills and self-reliance.
-Answer:
+
+#### Sample Answer: Not found
+
+## Tell me about a time you experienced conflict with a co-worker and how you resolved it?
+
+#### Sample Answer:
+
 -  “While in my current job, I was part of a project team that was tasked with coming up with a new campaign for a client. A coworker and I didn’t see eye-to-eye on the direction the campaign should take when it came to the tone, leading to some conflict.
 -  “To address the issue, I requested a meeting with my coworker to discuss their perspec- tive. My goal was to understand why they were adamant about that approach, asking clarifying questions and rephrasing what they shared to ensure I saw the complete pic- ture.
 -  “Then, I did the same, sharing my perspective in a calm, professional manner. This led us to a very beneficial discussion, one where we both saw the merits in the other’s strategy. Ultimately, this allowed us to work together to create the best possible campaign, one that boosted the client’s sales by 15 percent.”
 
-#### Answer:
+## Tell me about a time you disagreed with your boss?
+
+#### Sample Answer:
+
 When people work together, there are several cases of dissent. I experienced a similar dissent while working with my previous employer. My boss was a bit arrogant and high-handed who wanted everything to move as per his style. There was a bug in the software and I had sug- gested a plan to remove it, but he ignored me and rather implemented his own amends, which considerably failed. Then, he called me and I removed the bug. In the entire episode, I was calm and composed, rather than losing my temper.
 
+## Tell me about a time you needed to get information from someone who wasn’t very responsive?
  
 ### Keep in mind:
-
-
-#### Answer:
- 
 
 -   Make it easy for the person to give you a quick answer.
 -   Schedule time on their calendar.
 -   Propose a course of action you’ll take if you don’t hear back.
 -   Try a different method of communication.
 -   Ask the person directly how you should handle it.
+
+#### Sample Answer:
  
 “I can think back to a time when I was working closely with an external partner on planning an event. I was trying to set the schedule for my team, however, it would sometimes take two weeks before the external partner would email me back. I could definitely empathize with this as I know they mentioned they were managing multiple events, however, I also had to recog- nize that it was slowing down the planning for my team. What I did was first I would set a re- minder for myself to follow up to my initial emails two days after I sent my first email. Next, I determined setting up phone meetings might help the external partner communicate more information at once. This really helped in our ability to meet the deadlines we each needed.”
 
-#### Answer:
+## Tell me about a time you made a mistake?
+
+#### Sample Answer:
+
 I made a mistake in my last job, where I thought a meeting was a simple team meeting but it was actually a meeting with one of our top clients. I was able to quickly recover and gather the info I needed on my laptop, in the meeting, but it would have been less stressful if I had prepared ahead of time. I learned a valuable lesson to double-check calendar appointments and always be sure I know the details of a meeting before going in.
 
-#### Answer:
+## Tell me about a time when you had to make an important decision with lim-ited information?
+
+#### Sample Answer:
+
 -   I had a hard deadline of noon on a Monday, by which I had to submit a grant application on behalf of my boss, who was out of town. We had worked all weekend making sure every piece of the application was in place, but somehow, we had both overlooked a key component. My boss was flying and would thus be unable to communicate until after the application was due.
 -   The information required was something that could best be provided by my boss; how- ever, by comparing previous applications and verifying the details with the department’s business office, I was able to put together the relevant information and made the decision to submit the application before the deadline. It was accepted, and we won the grant.
 
-#### Answer:
+## Tell me about a time, when don’t see eye-to-eye with your work colleague?
+
+#### Sample Answer:
+
 "Another project manager and I were assigned a project together. I quickly saw my col- league handled follow-up and communication with the client differently than I did. I like to follow-up often and chat on the phone at various stages of the process with the client, but my colleague didn't see the purpose in communicating with the client so frequently. Even- tually, I talked with my coworker about her follow-up style versus mine. We compromised and agreed to follow up with the client every two weeks, rather than every week, to make collaboration smoother. I was glad I approached the situation head-on, and also under- stood and appreciated that my colleague had a different work approach."
 
-#### Answer:
-I remember such a situation from my job. Facing a tricky app development task, a team of developers were stuck at one point. They were just adding new layers to the code, mak- ing the entire app more robust and complex, which isn’t the worst thing, but such an app is prone to bugs and issues, and once something gets wrong it is harder to troubleshoot it. I was overseeing the project, and I was worried. At the end of the day I knew we had to make things differently, unless we wanted to miss the deadline. And so I spent two days talking to other engineers, brainstorming ideas. Eventually I came with a simple worka- round, using a functionality of an already existing app of one of our business partners, which allowed us to simplify the code of our own app, and move to the next stage of the development. It was just one of these situations when we tried to reinvent the wheel… It
+## Tell me about a time when you managed to find a simple solution to a com-plex problem?
 
-took me some time to realize it, and I was the only one in the team to see it, but I did see it and solved this complex issue with a simple solution.
+#### Sample Answer:
 
+I remember such a situation from my job. Facing a tricky app development task, a team of developers were stuck at one point. They were just adding new layers to the code, mak- ing the entire app more robust and complex, which isn’t the worst thing, but such an app is prone to bugs and issues, and once something gets wrong it is harder to troubleshoot it. I was overseeing the project, and I was worried. At the end of the day I knew we had to make things differently, unless we wanted to miss the deadline. And so I spent two days talking to other engineers, brainstorming ideas. Eventually I came with a simple worka- round, using a functionality of an already existing app of one of our business partners, which allowed us to simplify the code of our own app, and move to the next stage of the development. It was just one of these situations when we tried to reinvent the wheel… It took me some time to realize it, and I was the only one in the team to see it, but I did see it and solved this complex issue with a simple solution. 
 
-hiring managers can see how you handle mistakes and recover from failures. Plus, they can assess your honesty, accountability, and self-awareness.
+## Tell me about a time when you failed at work?
+Hiring managers can see how you handle mistakes and recover from failures. Plus, they can assess your honesty, accountability, and self-awareness.
+
 #### Answer:
 -   “In my first job, I had trouble gauging my workload. After getting my first big solo project, I underestimated the time it would take to complete the work and handle my other du- ties. As a result, I gave the client a deadline that was ultimately unrealistic, and I wasn’t able to deliver in time.
 -   “The client was understandably displeased when I informed them that the project would be late. I made sure to take full responsibility for the issue and worked with them to en- sure the project was completed to their satisfaction, albeit behind schedule.
 -   “In the end, they were pleased with the results. However, the moment when I had to in- form them that the deadline would be missed stuck with me. It became a powerful lesson for me about time estimates and workload assessments. I used what I learned to improve my approach and, since that project, have finished every project either on time or early.”
 
-#### Answer:
+## ## Tell me about a time when your style of communication resulted in a posi-tive outcome?
+
+#### Sample Answer:
+
 "My ability to effectively communicate has played a large role in my success as a web devel- oper. Regularly working with other team members and listening to the employees I oversee has allowed me to continuously motivate myself and improve overall performance. Through regular communication and a dedication to ensuring myself is happy and understand my role, which has improved my productivity."
 
- 
-#### Answer:
- 
+## Tell me about a time when you had to persuade someone to see your point of view?
 
+#### Sample Answer:
+ 
 “Well, to be honest, my biggest battle was to persuade myself, to have confidence in my abilities. I’ve had my share of problems in the past, and most people around me told me I was no good for anything. My confidence suffered, and I was very shy in rela- tionships. But I decided I had to change things. I took the initiative, started reading mo- tivation books, visited psychologist, and joined a sports club–to learn to have
  
 interactions with people again. All of this happened three years ago, and now, looking back, I can hardly recognize my old self… I definitely succeeded in persuading myself of my own worth. If I didn’t succeed, I would not sit here today with you, interviewing for a great job.”
 
-
+## Tell me about a time when you were flexible at work?
 
 ### Keep in mind:
 An employer might ask you this question to see how you adapt to different situations. Many employers are looking for team members who can adjust to new situations and think crea- tively when solving problems.
 
-#### Answer:
+#### Sample Answer:
 "I showed flexibility in my accounting position when I had a team member leave suddenly. My manager asked me to take over my colleague's clients with only a few days' notice. I stayed late that week, prepping as much information as I could. I also reached out to the new clients and explained I would now work with them. With this preparation, I completed all records for my clients, existing and new, accurately and on time."
 
-#### Answer:
+## Tell me about a time when you had to complete a task within a tight dead-line?
+
+#### Sample Answer:
 In my previous position as a web developer, I often assisted in task submission using some POC. These had tight submission deadlines that required proper time management and com- munication to complete. For example, one of my tasks was to prepare UI page with complex functionality. This required coordination with researchers, gathering data and including visu- als such as charts and graphs. While preparing a POC, I learned how to optimize my time and meet deadlines by using project management tools to ensure my presentation was timely and that I included ever required.
 I also wrote to-do lists to track my tasks and make it easier to prioritize what required com- pletion within a certain amount of time. Setting aside a specific amount of time for the parts of the presentation I knew would take a longer time to complete, such as data collection and analysis, I found that this helped me meet deadlines faster and earn more favorable feedback on the information in my presentations.
 
+## Tell me a time when you managed multiple tasks all at once?
 
-#### Answer:
+#### Sample Answer:
  
 I prefer to handle one project at a time. It allows me to focus on the task at hand. However, in business, while that would be ideal, the reality is that I need to be able to adjust to out- side forces. When a lot of things come at me at once, I create a checklist, which helps me to prioritize and guides me to work on the most pressing needs first.
 
-#### Answer:
+## Tell me a time when you went above and beyond for a customer or a client?
+
+#### Sample Answer:
+
 In my last company, my colleague used to have a hard time on getting started on project. He often called me or one of the other team members to his office to help him. So, I offered to arrive half an hour earlier every day and give him some lessons. He was thrilled. It was amazing how quickly he learned. After a month, he was able to handle almost all tasks with- out any help.
 
-#### Answer:
+## Tell me a time you had to work with a difficult co-worker?
+
+#### Sample Answer:
+
 "I had a coworker who was never able to finish his work on time. We worked in a really busy office, and the demands were heavy on all of us. His continued delays meant that I often had to pick up the slack, working harder and later to cover for him.
 He was always really grateful, but I felt like it was getting out of hand after a couple of months. I said I had to have a proper conversation with him about the situation and think about how we could solve it once and for all.
 We met in a neutral place and broke down the issue; I tried to listen and look for solution points. In the end, it became clear that he was signing up for more work than his job descrip- tion had actually specified - and he agreed that a frank conversation with his manager was needed to clarify expectations."
-Answer:
+
+## Tell me about a time when you overcame a difficult challenge at work?
+
+#### Sample Answer:
+
 One of the biggest work challenges I’ve overcome happened at my last job. Two team members were let go and I was left with the workload of three people. I fell behind and knew I couldn’t keep up in the long term, so I asked my manager for help. We came up with a solution that involved hiring, getting temporary help from another team, and streamlining our team’s processes to be more efficient, too. The experience taught me a lot in terms of communication and problem solving, and I think I’m even better prepared for the next problem or challenge I’ll face since I overcame that previous obstacle despite it feeling hopeless initially.
+
+## If your manager assigned you a task that you had never done before, how would you approach it?
  
-#### Answer:
+#### Sample Answer:
 'As a web developer, my manager asked me to do a POC on new framework. This was my first such assignment. I informed my manager that I was willing to learn and give it my best shot. I started by reviewing the basics of framework research that I had read online but never ap- plied.
 I also took a short-term course online on how to perform basic POC. By the end of the week, I had an in-depth report ready and a deeper understanding of different framework methodolo- gies. This impressed my manager and eventually, I got appreciable for the same.'
+
+## Tell me about a time when you initiated change in a team or an organiza-tion?
 
 There are many reasons employers ask you to explain times when you overcame obstacles, in- cluding to:
 -  Understand your problem-solving and decision-making skills
@@ -263,7 +341,7 @@ There are many reasons employers ask you to explain times when you overcame obst
 -  Emphasize key soft skills
 -  Proactive thinking
 
-#### Answer:
+#### Sample Answer:
  
 -  Quick decision-making
 -  Troubleshooting
@@ -272,10 +350,10 @@ There are many reasons employers ask you to explain times when you overcame obst
 -  Integrity
 -  Critical thinking
 
-
 In the last organization that I was a part of, the leadership team was always making changes in an effort to improve the quality of the service we provided, but it didn’t seem like the changes stuck around for very long. There was no follow up and the employees would just revert back to doing things how they originally were. My sug- gestion was to implement a change binder to keep track of these plans, which would make it easy to check on which ones worked and which didn’t, and help ensure the changes were implemented each week. With the binder, the results were clearer, and the more successful adjustments became standard policy that all employees followed.
  
- 
+## Tell me about a time when you had to overcome a setback?
+
 ### Keep in mind
 -  The role you'are applying for requires you to overcome challenging problems. If you've never experienced a challenging problem before, the interviewer can't be sure you will be a good fit for their team.
 -  The interviewer wants to assess what your approach is when dealing with challenging problems. Are you the type of person who passes the problem on to someone else to deal with, or do you take ownership of the situation, it to gain a thorough understanding of the issue, and then take positive steps to achieve an outcome that is in the best inter- est of the company?
@@ -286,14 +364,17 @@ In the last organization that I was a part of, the leadership team was always ma
 -   Action: The easy thing to do would be to reschedule the conference but I wasn’t prepared to do that, I started out by calling alternative venues in the local area. And concise in my requirements, after an hour, I managed to find a suitable alternative venue in a similar are that could cater for our needs. Finally, I emailed all attendees with the new venue instructions, and I then called each and every one of them personally to make sure they were fully aware of the change of venue.
 Result: By Remaining calm, by assessing my options, and by being resilient in the face of a difficult challenge I was able to deliver the best.
 
+## Tell me about a time when you made the right decision?
 
 ### Keep in mind:
 -  “We all have to make difficult decisions at work.
 -  If you can make difficult decisions that are in the best interests of the organization, you are far more likely to get hired.
+  
 ### <img src="tip.png" width="30" align="left"/> Tips
 -  Show you have the CONFIDENCE to make difficult decisions.
 -  In your answer, demonstrate you always put the organization first.
 -  When making difficult decisions, show that you always consider your options carefully.
+-  
 #### Answer:
 -  “In a previous role, I was looking after a client who had been using our services for many years.
 -  When we first started working with him, he was great to work with, he was responsive, and he was respectful of our prices.
@@ -301,7 +382,9 @@ Result: By Remaining calm, by assessing my options, and by being resilient in th
 -  In the end, I had to decide to stop working with him because the profitability we were seeing through the work he put our way was minimal compared with the resources and time we had to put in.
 -  l informed the client of our decision to stop working with him in a professional and respectful manner, and whilst he was disappointed, I knew this was the right thing to do for the business.”
 
-####Keep in mind:
+## Tell me about a time when you had to lead a team of people ?
+
+#### Keep in mind:
 -  Within any management or leadership role, you must be the person who takes the lead. If you haven’t demonstrated leadership skills before, how do you know you can do the job properly?
 -  The interviewer wants to hear how you took control of a situation, and you made a deci- sion that had a positive impact on your team or the organization.
 
@@ -311,7 +394,8 @@ Good examples of demonstrating leadership include:
 -  Getting a difficult project over the finishing line.
 -  Coming up with innovative ideas to help a business grow.
 -  Giving member of your team feedback to help them improve and develop.
-#### Answer:
+  
+#### Sample Answer:
 
 -  SITUATION: When I first started work in my previous role, I carried out an observational assessment of my team's strengths and weaknesses. I quickly noticed that several people in the team were weak at website performance. They weren't paying enough attention to performance and I felt they needed to improve.
 -  TASK: It was my responsibility as their leader to ensure they received the right training which would then enable them to do their jobs properly.
@@ -329,14 +413,24 @@ numerous examples of how a team can significantly improve their performance and 
 -  RESULT: Three months down the line and the output of the team had creased so much that we were able to take on more projects and tasks for the company. We became one of the best performing departments in the organization later that year which I put solely
 down to the fact that we started using tried and tested systems.
 
+## Tell me about a time when you had multiple options for solving a difficult problem?
+
 ### <img src="tip.png" width="30" align="left"/> Tips
 -  Give a previous difficult work situation you were in that demonstrates you are a DETER- MINED, positive and resilient person.
 -  In your answer, show you are someone, who always puts the needs of you team first.
 -  Show you are not afraid to tackle difficult situations professionally.
+
 #### Answer 1:
+
+“When I first started work in a previous role, I was taking part in a team meet-ing. One of the more senior members of the team kept dismissing my ideas and my suggestions. Every time I put forward an idea, he dismissed it, which I found uncomfortable. During the meeting he did this on no fewer than three separate occasions, so I de-cided to tackle it. It was a difficult situation because I am the type of person who doesn''t like conflict, but I was determined to make sure my ideas and suggestions were listened to. I spoke to my work colleague in private after the meeting and I gave him exam-ples of where he was dismissing my suggestions. I asked him why he felt the need to do this. He was taken aback by my comments and he apologized straight away before ensuring me it wouldn't happen again From that day onwards, I felt more involved in the team meetings, and I actually ended up becoming good friends with my work colleague in and out of the work
 
 #### Answer 2:
 
+“I was working as part of a team on an important project for a client and we had a strict deadline to work towards. Part way through the project the client started making changes to the project specifi-cation which could potentially push back the project finishing time. This was a difficult situation to be in because it was going to be hard for us to implement the requested changes and still finish the project on time.
+
+I decided to speak to the client to negotiate a longer project finishing time. I ex-plained how it was important to maintain high standards whilst working on the pro-ject, and to achieve our objectives we would need an additional 7-days. The client appreciated my honesty and the explanation I gave for the increased deadline, and he agreed to the project extension.”
+
+## Tell me about a time when you received criticism that you thought was un-fair.
 
 ### <img src="tip.png" width="30" align="left"/> Tips
 The interviewer wants to see if you are somebody who accepts feedback from others, because if you do, you will be the type of person who will continually grow and improve within in their team.
@@ -350,7 +444,7 @@ Those employees who view constructive criticism as helpful are more likely to be
 -  In your answer to the ‘how do you respond to criticism’ interview question, tell the interviewer that you view criticism as feedback.
 -  Is to make sure you demonstrate in your answer that you always EVALUATE the criticism be- fore acknowledging your faults and weaknesses and taking action to improve.
 
-#### Answer:
+#### Sample Answer:
 
 “l view criticism as an opportunity for me to improve, develop, and to grow within the team I am a part of.
 If someone criticizes my work, I will not take it personally but instead, I will ‘see what I can do
