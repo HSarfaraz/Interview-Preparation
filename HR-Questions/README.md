@@ -78,7 +78,7 @@ Choose any 3:
 
 
 #### Answer:
-<div style="padding:10px; background-color:#ccc";></div>
+
 -  I am a good fit for this role because the diverse set of skills and qualities I already have are a match for the job description.
 -  I am a SOLID COMMUNICATOR who understands the importance of communicating with customers, clients and team members with clarity, and professionalism.
 -  I am a good fit because I will COLLABORATE WITH TEAM MEMBERS in a manner that fo- cused on the team’s core objectives, and I will always put the needs of the above every- thing else.
@@ -211,7 +211,8 @@ interactions with people again. All of this happened three years ago, and now, l
 
 ### Keep in mind:
 An employer might ask you this question to see how you adapt to different situations. Many employers are looking for team members who can adjust to new situations and think crea- tively when solving problems.
-####Answer:
+
+#### Answer:
 "I showed flexibility in my accounting position when I had a team member leave suddenly. My manager asked me to take over my colleague's clients with only a few days' notice. I stayed late that week, prepping as much information as I could. I also reached out to the new clients and explained I would now work with them. With this preparation, I completed all records for my clients, existing and new, accurately and on time."
 
 #### Answer:
@@ -349,25 +350,27 @@ Those employees who view constructive criticism as helpful are more likely to be
 -  In your answer to the ‘how do you respond to criticism’ interview question, tell the interviewer that you view criticism as feedback.
 -  Is to make sure you demonstrate in your answer that you always EVALUATE the criticism be- fore acknowledging your faults and weaknesses and taking action to improve.
 
-####Answer:
+#### Answer:
 
 “l view criticism as an opportunity for me to improve, develop, and to grow within the team I am a part of.
 If someone criticizes my work, I will not take it personally but instead, I will ‘see what I can do
 to change things so that my performance improves.
 If you view criticism as a negative thing, you will always stay stuck in the same position, which isn't a good thing.
-78
- 
+
 For example, in my previous role, my manager gave me some great feedback about How I was dealing with customers on the telephone. She said | was spending too much time be- ing pleasant with the customers and asking them how their day was when I should have been trying to work through as many customers as possible. I immediately took onboard her feedback and changed the way that I dealt with our customers.”
 -  I always respond to criticism with professionalism with an open mind with the attitude that there is always room for improvement. So, when someone criticizes my work, I will listen carefully to what they have to say I will be polite and thankful for their comment and then I will evaluate what their intentions are and how can I use feedback to im- prove so I never take criticism personally because I am that type of employee who al- ways my faults and weaknesses and I will always take positive actions to improve.
 
-Educational Interview Questions
+<hr/>
 
+## Educational Interview Questions
 
-####Answer:
+#### Answer:
 “I majored in software engineering, so several of my courses directly prepared me for the role of a software developer. Each course in my major required extensive programming and logical thinking. Specifically, my final course was a capstone project in which I had to prepare documents like hospital management. This course gave me the real-world experience I needed to know how to prepare in web technology and relative courses.”
-####Answer:
+
+#### Answer:
 I have a React credential from Udemy and have extensive knowledge of the React Library. As a result, I am ideal for the business.
-####Answer:
+
+#### Answer:
 As a software developer, I try to keep update myself with the following
 -  Read Blogs and Newsletters
 -  Read Books
@@ -375,20 +378,16 @@ As a software developer, I try to keep update myself with the following
 -  Attend Events/Conferences/Meetups
 -  Code a Lot and Work on Side Projects Situational Interview 7 Questions
 
-
-####Answer:
+#### Answer:
 "(Problem) I had to work with another programmer who complained a lot about our projects.
 (Solution) I took the time to learn about his personal life. It turned out he was going through a tough divorce. Once I got to know him, he was actually a great coworker.
 (Benefit to employer) We worked so well together after that we were the most efficient program- ming pair in the company.
 
-
 #### Answer:
 " In my last company, my colleague used to have a hard time on getting started on project. He often called me or one of the other team members to his office to help him. So, I offered to arrive half an hour earlier every day and give him some lessons. He was thrilled. It was amazing how quickly he learned. After a month, he was able to handle almost all tasks without any help.
 
-
 #### Answer:
 "I broke my leg skiing and had to miss two weeks of work. I take it easy on the groomers now. I’m happy to report I haven’t missed a day of work in five years.”
-
 
 #### Answer:
 “In my last job, our CEO gave me a chance to interview and hire entry-level people for our team. I chose to hire someone who seemed to have a lot of potential but also had some “red flags” or things that wor- ried me. It ended up being a big mistake. They had a poor attitude and dragged the team down until my CEO had to fire them. I learned to be more careful and not rush my decisions and to speak with others on my team who have more experience if I’m unsure of something. I also realized how important each hiring decision is, which made me a better manager in the last few years of my career. Since then, I’ve hired eight new people and never had a bad experience like this again. But it was a great lesson to learn early in my career.”
@@ -403,9 +402,9 @@ Once I identify the problem, I will try to track the points that were the basis 
 
 Also, if needed, I would encourage this team member to take responsibility for his or her actions, the same as I would do in a similar situation. In these cases, it’s essential to show empathy, improve work pro- cesses, and communication. I also use these opportunities to strengthen the relationship between my col- leagues and me as well.”
 
+<hr/>
 
 ## Emotional Intelligence Interview 11 Questions
-
 
 ### Keep in mind:
 Interviewers ask questions like these to evaluate how you perceive your attributes and how you take action to improve weaker skill areas. Your answer can also help the interviewer get an idea of how your strengths can contribute to the role.
@@ -415,12 +414,14 @@ Interviewers ask questions like these to evaluate how you perceive your attribut
 
 ### Keep in mind:
 Interviewer insight into your passions and interests and can tell them how you stay engaged when working with others.
-####Answer:
+
+#### Answer:
 "My enthusiasm comes from supporting my teammates and observing how they achieve objec- tives. I find motivation in understanding others' ideas or challenges because it gives me the op- portunity to connect with my team and contribute to the development of effective solutions."
 
 ### Keep in mind:
 Describe how you evaluate your work tasks and projects; determine the tools you need and communicate with teammates and managers to ensure successful outcomes.
-####Answer:
+
+#### Answer:
 " In my previous role, I covered for my assistant manager while they were on vacation. I ended up with several assignments in addition to my normal workload. Initially, it was stressful to organize each project according to priority level, but with the support of my manager, I learned how to use the company's project management software to classify my tasks, dele- gate assignments and track progress on incomplete and completed objectives."
 
 ### Keep in mind:
@@ -431,7 +432,8 @@ Answer:
 
 ### Keep in mind:
 The interviewer is likely considering how your communication skills support your ability to give input, listen to others' ideas and form positive work relationships that lead to successful results. Demonstrate your communication skills, collaboration techniques and ability to build supportive relationships with others.
-####Answer:
+
+#### Answer:
 "During team meetings, I feel it's most effective to take turns giving input on the key points of a discussion topic. In past roles, I usually approached team collaboration like this, where our man- ager outlined the key discussion points so my team and I could provide input on each of these points. Keeping the meetings and collaboration relevant to each important aspect of a project we completed helped us better understand management's and the client's expectations."
 
 ### Keep in mind:
