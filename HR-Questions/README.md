@@ -137,7 +137,7 @@ If someone ask me the feedback, I would rather avoid it, as I don’t want to hu
 -   This has been problem of mine, because I always say yes to everything, Even I don’t have the capacity to do so. Now in the past, I have sometimes become overwhelmed by taking on too many responsibilities, now before I say, yes to things, now I take my time to asses my own workload to make sure, I do have the capacity to the extra work responsi- bilities.
   
 -   I lack experience in certain area
--   
+  
 #### Sample Answer: 
 I currently lack in taking the lead in the projects, but this is something, I am keen to improve on.
 
