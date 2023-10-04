@@ -1,10 +1,14 @@
+<div align="center">
+  <img src="managerial-round.png" width="100" />
+</div>
 
-##Behavioral Questions
+## Behavioral Questions
 
-###Tips
 
-####Points Below
--  a behavioral interview question gauges how you think and act in various situations. Many questions of this kind focus on scenarios, requiring you to outline what you did (or would do) under specific circumstances.
+### <img src="tip.png" width="30" align="left"/> Tips
+
+#### Points Below
+-  A behavioral interview question gauges how you think and act in various situations. Many questions of this kind focus on scenarios, requiring you to outline what you did (or would do) under specific circumstances.
 -  Usually, your answer helps the hiring manager assess your mindset and soft skills. Plus, they’ll learn more about the hard skills you use to handle challenges or address prob- lems of a particular nature.
 -  Study the job description.
 -  Review major projects you’ve worked on.
@@ -18,35 +22,34 @@
 	2.	Task
 	3.	Action
 	4.	Result
-		a.	Situation: Describe the context or situation. Explain where and when this group project took place.
-		b.	Task: Explain the mission of the group—describe the particular project you were working on. If there was a problem in the group, explain that problem or chal- lenge.
-		c.	Action: Describe the actions you took to complete the project or solve the partic- ular problem.
-		d.	Result: Finally, explain the result of the actions taken. Emphasize what your team accomplished, or what you learned.
 
-62
+-  Situation: Describe the context or situation. Explain where and when this group project took place.
+-  Task: Explain the mission of the group—describe the particular project you were working on. If there was a problem in the group, explain that problem or chal- lenge.
+-  Action: Describe the actions you took to complete the project or solve the partic- ular problem.
+-  Result: Finally, explain the result of the actions taken. Emphasize what your team accomplished, or what you learned.
+
+<hr/> 
  
- 
+### <img src="tip.png" width="30" align="left"/> Tips
 
-###Tips
+#### Points Below
+-  Focus on creating a positive first impression,
+-  Means arrive 20 mins before the interviews, it means you are punctual and organized.
+-  Read the job description
+-  Dress professionally
+-  Have good posture, smile and demonstrate good manners
+-  	Example: Hi, my name is ‘Sarfaraz’ and I am here for interview, Thank you.
 
-####Points Below
-1.	Focus on creating a positive first impression,
-1.	Means arrive 20 mins before the interviews, it means you are punctual and organized.
-2.	Read the job description
-2.	Dress professionally
-3.	Have good posture, smile and demonstrate good manners
-1.	Example: Hi, my name is ‘Sarfaraz’ and I am here for interview, Thank you.
+### <img src="tip.png" width="30" align="left"/> Tips
 
-###Tips
-
-####4 Things to include
-1.	Talk about the SKILLS & QUALITIES that match the job role
-2.	Talk about the EXPERIENCE that are relevant to the position
-3.	Talk about any SIGNIFICANT achievement so far in personal / worklife
-4.	Talk about the TYPE OF PERSON you are and what are u going to do, if they hire you
+#### 4 Things to include
+-  Talk about the SKILLS & QUALITIES that match the job role
+-  Talk about the EXPERIENCE that are relevant to the position
+-  Talk about any SIGNIFICANT achievement so far in personal / worklife
+-  Talk about the TYPE OF PERSON you are and what are u going to do, if they hire you
 
 
-####Answer:
+#### Answer:
 Thank u for giving me the opportunity to be interviews for this position Today.
 1.	“I am loyal, hard-working, professional and conscientious and, having studied the job de- scription for this role in detail, I feel the attributes I possess are a strong match.
 2.	Whilst at work, I am someone who takes pride in delivering each task to a high standard and I achieve this by working closely with other people within the team.
