@@ -360,17 +360,25 @@ If you view criticism as a negative thing, you will always stay stuck in the sam
 For example, in my previous role, my manager gave me some great feedback about How I was dealing with customers on the telephone. She said | was spending too much time be- ing pleasant with the customers and asking them how their day was when I should have been trying to work through as many customers as possible. I immediately took onboard her feedback and changed the way that I dealt with our customers.”
 -  I always respond to criticism with professionalism with an open mind with the attitude that there is always room for improvement. So, when someone criticizes my work, I will listen carefully to what they have to say I will be polite and thankful for their comment and then I will evaluate what their intentions are and how can I use feedback to im- prove so I never take criticism personally because I am that type of employee who al- ways my faults and weaknesses and I will always take positive actions to improve.
 
+<br/>
 <hr/>
+<br/>
 
 ## Educational Interview Questions
+
+## How did your education prepare you for this job?
 
 #### Answer:
 “I majored in software engineering, so several of my courses directly prepared me for the role of a software developer. Each course in my major required extensive programming and logical thinking. Specifically, my final course was a capstone project in which I had to prepare documents like hospital management. This course gave me the real-world experience I needed to know how to prepare in web technology and relative courses.”
 
+## What technical certifications do you have?
+
 #### Answer:
 I have a React credential from Udemy and have extensive knowledge of the React Library. As a result, I am ideal for the business.
 
-#### Answer:
+## What do you do to stay up-to-date on your technical certifications and knowledge?
+
+#### Sample Answer:
 As a software developer, I try to keep update myself with the following
 -  Read Blogs and Newsletters
 -  Read Books
@@ -378,24 +386,42 @@ As a software developer, I try to keep update myself with the following
 -  Attend Events/Conferences/Meetups
 -  Code a Lot and Work on Side Projects Situational Interview 7 Questions
 
+<br/>
+<hr/>
+<br/>
+
+## Situational Interview 7 Questions
+
+## Tell me about a time you had to collaborate with a coworker who was difficult to work with?
+
 #### Answer:
 "(Problem) I had to work with another programmer who complained a lot about our projects.
 (Solution) I took the time to learn about his personal life. It turned out he was going through a tough divorce. Once I got to know him, he was actually a great coworker.
 (Benefit to employer) We worked so well together after that we were the most efficient program- ming pair in the company.
 
+## Tell me about a time you went above and beyond for work?
+
 #### Answer:
 " In my last company, my colleague used to have a hard time on getting started on project. He often called me or one of the other team members to his office to help him. So, I offered to arrive half an hour earlier every day and give him some lessons. He was thrilled. It was amazing how quickly he learned. After a month, he was able to handle almost all tasks without any help.
+
+## Tell me about a time you had to choose something else over doing a good job
 
 #### Answer:
 "I broke my leg skiing and had to miss two weeks of work. I take it easy on the groomers now. I’m happy to report I haven’t missed a day of work in five years.”
 
+## Describe a situation where you weren’t satisfied with your job. What could have made it better?
+
 #### Answer:
 “In my last job, our CEO gave me a chance to interview and hire entry-level people for our team. I chose to hire someone who seemed to have a lot of potential but also had some “red flags” or things that wor- ried me. It ended up being a big mistake. They had a poor attitude and dragged the team down until my CEO had to fire them. I learned to be more careful and not rush my decisions and to speak with others on my team who have more experience if I’m unsure of something. I also realized how important each hiring decision is, which made me a better manager in the last few years of my career. Since then, I’ve hired eight new people and never had a bad experience like this again. But it was a great lesson to learn early in my career.”
+
+## Tell me about a time you reached a big goal at work. How did you reach it?
 
 #### Answer:
 " In my recent job, I set a personal goal to not only accomplish my set objectives for my job, but also to develop proficiency in a new tool or technology. My objectives for my job were both completed and I was also able to develop proficiency in React, which I had previously only used in POC. Let me tell you about the objectives achieved and where I was able to use React to complete the project.”
 
-#### Answer:
+## Describe a situation where you saw a problem and took steps to fix it?
+
+#### Sample Answer:
 "If I notice at any point during a project that there are any errors in the teamwork or an issue arises as a result of miscommunication, I address it immediately. I always first try to reach the core of the issue and analyze the circumstances that created it. This way I make sure I thoroughly understand what I’m up against so that I can make an effective and efficient plan of action.
 
 Once I identify the problem, I will try to track the points that were the basis of the issue. If the issue can be traced back to a specific team member, I would talk to this person to discuss the situation, how it came about, and how I can provide support to make sure we tackle this challenge together.
@@ -406,20 +432,28 @@ Also, if needed, I would encourage this team member to take responsibility for h
 
 ## Emotional Intelligence Interview 11 Questions
 
+## What are your strengths and weaknesses? How have you improved your weaknesses?
+
 ### Keep in mind:
 Interviewers ask questions like these to evaluate how you perceive your attributes and how you take action to improve weaker skill areas. Your answer can also help the interviewer get an idea of how your strengths can contribute to the role.
- 
-#### Answer:
+
+#### Sample Answer:
 “My strongest skills are communication and collaboration, as I enjoy meeting with others and learning about their ideas and perspectives. These skills weren't always my strengths, though. I've worked hard to develop my ability to be a better listener and apply feedback I receive from oth- ers, which were two weaker areas that I've improved in my career. Because of my improvement in these skills, I'm better able to contribute to team projects and success.”
+
+## What motivates you at work?
 
 ### Keep in mind:
 Interviewer insight into your passions and interests and can tell them how you stay engaged when working with others.
 
-#### Answer:
+#### Sample Answer:
 "My enthusiasm comes from supporting my teammates and observing how they achieve objec- tives. I find motivation in understanding others' ideas or challenges because it gives me the op- portunity to connect with my team and contribute to the development of effective solutions."
+
+## Describe a time when you had to complete multiple work assignments at once. How did you handle it?
 
 ### Keep in mind:
 Describe how you evaluate your work tasks and projects; determine the tools you need and communicate with teammates and managers to ensure successful outcomes.
+
+## Can you describe a time when you and a colleague disagreed on something? How did you handle it?
 
 #### Answer:
 " In my previous role, I covered for my assistant manager while they were on vacation. I ended up with several assignments in addition to my normal workload. Initially, it was stressful to organize each project according to priority level, but with the support of my manager, I learned how to use the company's project management software to classify my tasks, dele- gate assignments and track progress on incomplete and completed objectives."
@@ -430,11 +464,15 @@ Interviewers also ask questions that give them insight into how you approach and
 Answer:
 "During an important software development project, a colleague on my team wanted to im- plement a programming language that I felt was inappropriate for the process. My teammate and I brought documents that detailed both the proposed programming and their new ap- proach. We compared outcomes by testing each method, which showed us the efficiency of implementing the new code. I love learning new approaches to make software development more efficient, and because of our ability to discuss our different approaches, our project was more successful."
 
+## How do you approach collaboration during team meetings?
+
 ### Keep in mind:
 The interviewer is likely considering how your communication skills support your ability to give input, listen to others' ideas and form positive work relationships that lead to successful results. Demonstrate your communication skills, collaboration techniques and ability to build supportive relationships with others.
 
 #### Answer:
 "During team meetings, I feel it's most effective to take turns giving input on the key points of a discussion topic. In past roles, I usually approached team collaboration like this, where our man- ager outlined the key discussion points so my team and I could provide input on each of these points. Keeping the meetings and collaboration relevant to each important aspect of a project we completed helped us better understand management's and the client's expectations."
+
+## Have you ever received feedback you didn't agree with? What did you do?
 
 ### Keep in mind:
 Employers understand challenges can arise in the workplace, and this question gives interviewers a better understanding of how you approach and solve disagreements with others. In your an- swer, give an example of a time when you discussed opposing viewpoints and listened to alterna- tive perspectives to find solutions.
@@ -443,11 +481,15 @@ Employers understand challenges can arise in the workplace, and this question gi
 “In my last role, my manager asked that I create a presentation for our PR event. I completed the slides and accompanying documents for the presentation, and received feedback from my manager before the event. While I thought my work was effective and appropriate for the event, my manager suggested I reduce the text and add more graphic elements to the presentation slides.
 I initially disagreed because I thought the audience would benefit more from the information on our products. However, my manager had extensive experience in graphic design and marketing, so I truly appreciated the feedback and learning opportunity to improve the appearance of my presentation."
 
+## Tell me about a mistake you made at work. How did you handle the situa-tion? 
+
 ### Keep in mind:
 The interviewer may ask this to understand how you accept accountability and find solutions to fix mistakes. Describe your approaches when recognizing problems, communicating with managers and implementing suggestions and strategies that help you fix errors.
 
 #### Answer:
 “When I first started my career as an assistant branch manager, I made the mistake of taking on everything by myself, including daily tasks and important sales projects. I eventually started falling behind on some of my sales goals, which my directors noticed. I met with my directors to discuss improvement strategies and methods to allocate more work to my team, which helped me under- stand when to delegate and when to complete certain tasks. Learning from this mistake helped me develop my skills as a manager and improve my ability to direct and help teams organize workflow.”
+
+## What is something you said or did that had a positive impact on a teammate or customer?
 
 ### Keep in mind:
 Your impact on others in the workplace can be a positive contribution to the work environment and company culture. This question helps the interviewer assess your ability to have a positive influence on others and support their organization's overall success. In your answer, give an ex- ample of how you listened to others and offered support that helped achieve a positive result.
@@ -456,17 +498,23 @@ Your impact on others in the workplace can be a positive contribution to the wor
 “At my previous company, I had a positive influence on one of my teammates. They were rela- tively new in the company but past their training period. I noticed my teammate struggled to communicate their ideas during team collaboration, and I eventually found out my teammate was extremely shy. However, their performance and work quality were exceptional, so I made it a point to help my colleague develop their communication skills and overcome their shyness. This helped them contribute more during team meetings and communicate more clearly when giving ideas or
 suggesting new strategies.”
 
+## If you notice a teammate is having a bad day, how would you approach them?
+
 ### Keep in mind:
 This question can give employers insight into how you connect with others, recognize others' emotions and offer your support. Use an example from your experience that shows how your in- terpersonal skills helped you support others when solving problems, overcoming challenges or finding solutions that create positive outcomes.
 
 #### Answer:
 "I'm always trying to find the positive in challenging situations. I once had a teammate who re- ceived feedback that she needed improvement in several areas of her work performance. I no- ticed she was having a bad day, so I approached her and simply asked what was bothering her. She discussed her feedback with me, and I helped her implement different approaches to increas- ing her productivity. This helped her have a more positive outlook on her professional develop- ment, which brightened her mood and helped her stay engaged with her work."
 
+## How do you form new relationships with colleagues?
+
 ### Keep in mind:
 Your answer to this question can show the interviewer how effectively you approach new team- mates, build rapport and communicate your enthusiasm to contribute to your team. Show the interviewer how you can contribute to their team or department by describing the actions you take when meeting, communicating and developing rapport with new teammates.
 
 #### Answer:
 "When I first started my career as a web developer, I introduced myself to all my team members. I took the opportunity during team collaborations to get to know everyone and their contributions to the UI team. I like to make sure my teammates get to know me and feel comfortable asking questions or offering input as I learn a new role or skill."
+
+## Have you ever had to deliver difficult feedback?
 
 ### Keep in mind:
 The interviewer may ask this question as a way to understand how you approach communicating with others when discussing setbacks, challenges or problems in the workplace. Use your answer to demonstrate how you consider others' feelings, formulate your input and communicate sensi- tive topics.
@@ -475,11 +523,15 @@ The interviewer may ask this question as a way to understand how you approach co
 “One of the staff members at my previous company started coming into work late. I'd just ad- vanced to a management role, so the employee was under my supervision. I approached her and explained to her my concerns. I provided feedback to discuss the company's policies and how her actions were reflecting on her work ethic. This was difficult to discuss, as the employee was usu- ally an enthusiastic and motivated team member.
 However, I felt that being direct and communicating openly was the best approach to giving this employee feedback. During our discussion, the employee explained they'd recently taken custody of a family member, making caregiving challenging during the week. We came up with solutions to the employee's issues, which I believe never would have happened had I not provided con- structive feedback.”
 
+<br/>
 <hr />
+<br/>
 
 ## Values Interview 4 Questions
 
 Interviews are an opportunity for you to describe the skills, education, experience and personality traits that make you a good match for an organization. Your answers can show employers that you have the qualities that make you a strong candidate for the role. You might face questions about honesty, integrity, teamwork and trustworthiness.
+
+## Tell me about a time you faced an ethical dilemma at work and how you han-dled it?
 
 ### Keep in mind:
 Interviewers may ask this question to see how you respond to moral and ethical issues in the work- place. These can be uncomfortable situations, and they want to know that you are willing to do what's right even when it's hard. You should discuss a situation that shows your integrity and honesty with- out demeaning another person.
@@ -487,18 +539,24 @@ Interviewers may ask this question to see how you respond to moral and ethical i
 #### Answer:
 "I used to go to lunch with the same group of coworkers three to four times a week. After a while, I noticed that one coworker did not go with us to clock out and clock back in. I didn't want to assume anything, so the next time we went to lunch, I reminded my coworker to clock out. They told me they didn't really worry about clocking out for lunch. The next day, I had to let my manager know."
 
+## How do you define integrity in the workplace?
+
 ### Keep in mind:
 Interviewers want to know how you approach doing what's right at work. They want to make sure that your views align with their expectations in areas like honesty, trust and reliability. In your answer, ex- plain that doing the right thing is important to you in all settings. Discuss how important your values are and the steps you take to make ethical choices.
 
 #### Answer:
 "I define integrity as maintaining your own moral code, no matter who's around. It's about doing things the right way, honoring your word and being a hard worker because that's what you should do, not because of external accolades. I try to make sure my actions are in line with my personal beliefs, and if I see something that goes against my values or the company's standards, I know to report it."
 
+## Have you ever had to work with a difficult coworker? How did you handle it?
+
 ### Keep in mind:
 Interviewer may ask about challenging personalities in the workplace to see how you manage tension and interpersonal conflict. These issues can be distracting and affect the entire office, so it's important to make sure candidates can get along with others and maintain a peaceful environment. In your an- swer, explain how you approach disagreements and discuss a situation where you dealt with a conflict successfully.
 
-#### Answer:
+#### Sample Answer:
 "When coworkers seem difficult, I start by listening. Many apparent conflicts are simply the result of misunderstandings. Once I can identify what the problem really is, then I try to work toward a solution that benefits everyone.
 For example, I had a coworker who told our boss that I wasn't including their name on team projects. When my boss asked me about this, I explained that I always used the last page of our reports to list the team members. My coworker had not seen this page, and once I showed them, we resolved the issue quickly. I agreed to put the team page at the beginning of our reports going forward."
+
+## How do you approach team projects?
 
 ### Keep in mind:
 
@@ -507,16 +565,25 @@ Employers ask about how you work with others to make sure you can be a team play
 #### Answer:
 "I like working on teams because it's a great opportunity to hear other perspectives and learn from my peers. It's helpful to review the project's scope, timeline and goals before getting started so that everyone understands the details. I approach team projects as both a student and a teacher. I want to hear everyone's ideas, and I also want to share what I know to help create the best possible outcome."
 
+## Describe a time you solved a problem in a nontraditional way?
+
 ### Keep in mind:
 Managers appreciate innovation and creativity, which can help propel their businesses forward. These questions allow interviewers to see if you think progressively. Share a time when you came up with a new idea or solution for your business or in your personal life.
 
 #### Answer:
 "When I was working as a marketing associate, I took a weekend workshop on social media market- ing. Our company had not used this route historically, so I created a proposal to launch a social media marketing initiative. My manager liked my idea, and I became the Social Media Director for the next two years."
 
+<br/>
 <hr />
+<br/>
+<div align="center">
+  <img src="salary-negotiation.png" width="100" />
+</div>
+<br/>
 
 ## Final HR Salary Negotiation Round:
 
+<br/>
 
 ### HR will explain the few points below
 -  Will explain Pay in INR / USD / Pound / Euro
@@ -524,23 +591,27 @@ Managers appreciate innovation and creativity, which can help propel their busin
 -  Will explain payroll monthly or biweekly
 -  Will explain to whom to report to
 
+## What is your salary expectation?
+
+#### Sample Answer:
 -  “Before attending the interview today, I carried out some research to establish the average salary range for this job within this industry.
 -  The average salary is between $25,000 and $34,000. Whilst I feel I am worth the higher salary range, I understand that you do not know me, and I have a responsibility to prove to you my worth.
 -  On that basis, I would be comfortable with a salary of $31,000 and I believe, based on my hard-working nature, my ability to get up and running quickly in the role, and my commitment to your company brand, you will soon see a positive return on your investment.
 
+## Do you have questions for me?
+
 ### Keep in mind
 They want to hear that you are worked under pressure in a previous position. If you have already had to work under pressure, you are more likely going to be a good fit for their team.
 They want to hear how you used your initiative to meet a tight deadline.
-#### Answer:
 
- ### <img src="tip.png" width="30" align="left"/> Never Ask Tips
+### <img src="tip.png" width="30" align="left"/> Never Ask Tips
 -  Pay 
 -  Time off work
 -  How they think you have performed at the interview
 -  Perks or benefits of the job
 -  What their company does
 -  Why I should work for them!
--  
+  
 #### Answer:
 -  What advice would you give to the successful candidate who wants to excel in the posi- tion and add value to the organization.
 -  Could you tell me more about the team I would be a part of?
@@ -548,14 +619,18 @@ They want to hear how you used your initiative to meet a tight deadline.
 -  What challenges is the organization facing right now, and what could I do in the role to help you overcome them?
 -  Can you tell me what the plans are for the company over next 5-10 years?
 
+## How do you manage stress on the job?
 
+#### Sample Answer:
 -  “While I’ve found that some stress actually pushes me to be my best, it’s also essential to ensure that my stress levels remain reasonable. One approach I’ve found that works for me is focusing on organization.
 -  “I’m a big fan of breaking large responsibilities down into small tasks, making them feel more manageable and giving me a roadmap to follow. For a recent project in my current job, I divided the work up into ten micro-goals. Then, I blocked out time on my calendar for every activity. Not only does this keep me on target, but it also reduces the odds that I’ll feel overwhelmed.
+
+## Describe a time when you had to adapt quickly to a change in priorities?
 
 ### Keep in mind
 Regardless of whether a workplace is fast- or slow-paced, unexpected events can occur. Hiring managers want to know that you can shift gears quickly if the need arises, so they ask questions like this one to assess your agility.
 
-#### Answer:
+#### Sample Answer:
 -  “As a member of my current employer’s IT department, COVID-19 required some quick pivoting. I was part of a team that managed remote work permissions and technologies for the organiza- tion. When it became clear that a shelter-in-place order may be on the horizon, we had to repri- oritize quickly, ensuring we could get everyone their needed credentials, applications, and de- vices handled as fast as possible.
 -  “I spoke with my manager about my workload, allowing us to identify tasks that could be set
 aside temporarily. After that, prioritized the employee list based on their position, ensuring
@@ -565,10 +640,12 @@ be as problematic.
 This includes everything from ordering mobile devices and laptops, coordinating the service providers to add relevant user accounts, and creating initial training documents to ensure those who began working remotely had the information they needed to transition as seamlessly as possible. While the situation was challenging, I was able to complete everything tasked to me before a shelter-in-place order was issued in our area, and even had time to assist others, in-
 creasing the success of the entire project.”
 
+## Tell me about a time when you led a team ?
+
 ### Keep in mind
 With this question, the hiring manager is trying to learn more about your leadership skills. Addi- tionally, they might be looking for insights about how you oversee the work of others and keep multiple people on target as they work toward a singular goal.
 
-#### Answer:
+#### Sample Answer:
 “In my last position, I was tasked with overseeing the transition to a new order management system. This involved coordinating with multiple teams to ensure that the date from the existing solution would transi- tion successfully to the new one. Additionally, I had to communicate with all of the end-users, ensuring they knew about use limitations or downtime in advance.
 “I created a project plan for the transition and implementation, and worked closely with each team to ensure the timeline was workable. Along the way, I monitored progress, answered questions, and facili- tated conversations to keep everyone on the same page. Additionally, I provided reports to the leadership team, ensuring they were informed.
 “Ultimately, the project was a success. All of the transferred data was in place, and we finished on time,
