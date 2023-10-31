@@ -5,6 +5,7 @@
 <br/>
 <hr/>
 <br/>
+
 ### Chapter 1:
 
 ```javascript
@@ -118,6 +119,7 @@ export default OneMapnFilter;
 <br/>
 <hr/>
 <br/>
+
 ### Chapter 2:
 
 /_ Question 2:_/
@@ -199,6 +201,7 @@ export default class TwoStateClass extends Component {
 <br/>
 <hr/>
 <br/>
+
 ### Chapter 3: Passing data from child to parent
 
 <!-- Question 3 -->
@@ -246,6 +249,7 @@ export default ThreeChild;
 <br/>
 <hr/>
 <br/>
+
 ### Chapter 4: Inline Condition
 
 ```javascript
@@ -306,6 +310,7 @@ export default FourInlineCondition;
 <br/>
 <hr/>
 <br/>
+
 ### Chapter 5: Event Handling
 
 ```javascript
@@ -337,6 +342,7 @@ export const FiveEventHandling = () => {
 <br/>
 <hr/>
 <br/>
+
 ### Chapter 6:  Keys
 
 ```javascript
@@ -388,6 +394,7 @@ export default SixKeys;
 <br/>
 <hr/>
 <br/>
+
 ### Chapter 7:
 
 ```javascript
@@ -459,6 +466,7 @@ export default SevenForms;
 <br/>
 <hr/>
 <br/>
+
 ### Chapter 8:
 
 ```javascript
@@ -500,6 +508,7 @@ export default EightDynamicInput;
 <br/>
 <hr/>
 <br/>
+
 ### Chapter 9:
 
 ```javascript
@@ -557,6 +566,7 @@ export default NineCSSStyle;
 <br/>
 <hr/>
 <br/>
+
 ### Chapter 10:
 
 ```javascript
@@ -610,6 +620,7 @@ export default TenControlledVsUncontrolled;
 <br/>
 <hr/>
 <br/>
+
 ### Chapter 11:
 
 ```javascript
@@ -712,6 +723,7 @@ export const familyTree = {
 <br/>
 <hr/>
 <br/>
+
 ### Chapter 12:
 
 ```javascript
@@ -760,6 +772,7 @@ export default TweleveInnerHTML;
 <br/>
 <hr/>
 <br/>
+
 ### Chapter 13:
 
 ```javascript
@@ -785,6 +798,7 @@ export default ThirteenFragment;
 <br/>
 <hr/>
 <br/>
+
 ### Chapter 14:
 
 ```javascript
@@ -805,6 +819,7 @@ export default FourteenStatelessVSStateful;
 <br/>
 <hr/>
 <br/>
+
 ### Chapter 15:
 
 ```javascript
@@ -915,6 +930,7 @@ export default FifteenCRUD;
 <br/>
 <hr/>
 <br/>
+
 ### Chapter 16:
 
 ```javascript
@@ -974,6 +990,7 @@ export default SixteenDebouncing;
 <br/>
 <hr/>
 <br/>
+
 ### Chapter 17: Context API
 
 ```javascript
@@ -1061,6 +1078,7 @@ export default Settings;
 <br/>
 <hr/>
 <br/>
+
 ### Chapter 18:  Higher order component
 
 ```javascript
@@ -1153,6 +1171,7 @@ export default UsersComp;
 <br/>
 <hr/>
 <br/>
+
 ### Chapter 19: Lazing Loading, Suspense
 
 ```javascript
@@ -1691,6 +1710,7 @@ export default Home;
 <br/>
 <hr/>
 <br/>
+
 ### Chapter 20: Helper
 
 ```javascript
@@ -1748,6 +1768,7 @@ export const addNum = (a, b) => {
 <br/>
 <hr/>
 <br/>
+
 ### Chapter 21: NA
 
 ```javascript
@@ -1756,6 +1777,7 @@ export const addNum = (a, b) => {
 <br/>
 <hr/>
 <br/>
+
 ### Chapter 22: Recursion
 
 ```javascript
@@ -1858,6 +1880,7 @@ export const familyTree = {
 <br/>
 <hr/>
 <br/>
+
 ### Chapter 23: Array
 
 ```javascript
@@ -1939,6 +1962,7 @@ export default TwentyThreeArray;
 <br/>
 <hr/>
 <br/>
+
 ### Chapter 24: Custom Hooks
 
 ```javascript
@@ -1999,6 +2023,7 @@ export default useData;
 <br/>
 <hr/>
 <br/>
+
 ### Chapter 25: Promise, Aysnc-await
 
 ```javascript
@@ -2103,6 +2128,7 @@ export default PromiseApp2;
 <br/>
 <hr/>
 <br/>
+
 ### Chapter 26: Code Spliting
 
 ```javascript
@@ -2152,6 +2178,7 @@ export function add(a, b) {
 <br/>
 <hr/>
 <br/>
+
 ### Chapter 27: Filter
 
 ```javascript
@@ -2230,6 +2257,7 @@ export default FilterApp;
 <br/>
 <hr/>
 <br/>
+
 ### Chapter 28: NA
 
 ```javascript
@@ -2238,6 +2266,7 @@ export default FilterApp;
 <br/>
 <hr/>
 <br/>
+
 ### Chapter 29: Unit Testing
 
 ```javascript
@@ -2513,6 +2542,7 @@ export default Posts;
 <br/>
 <hr/>
 <br/>
+
 ### Chapter 32: Infinite Scroll
 
 ```javascript
