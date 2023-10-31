@@ -1,6 +1,6 @@
 ## React Coding interview questions
 
-<i size="8px">from youtube --> Cybernatico 5 hours<i>
+<i size="8px">from youtube --> Cybernatico 5 hours</i>
 
 <br/>
 <hr/>
